@@ -1,12 +1,15 @@
 import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import Nav from './shared/Nav'
+import { Outlet } from 'react-router-dom';
 
-function App() {
+
+
+const App: React.FC = () => {
   return (
-    <div className="App">
-   
-    </div>
+    <>
+      <Nav />
+      <Outlet />
+    </>
   );
 }
 
