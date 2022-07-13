@@ -1,0 +1,116 @@
+{ 
+    "categories": [
+        {
+            "name": "iaa",
+            "title": "IAA",
+            "topics": [{
+                "name": "tips",
+                "title": "Tips",
+                "entries": [
+                    {
+                        "data": "Set up and practice with a First Flight app",
+                        "createdBy": "somebody",
+                        "created": "date",
+                        "updated": "date"
+                    }
+                    ]
+                },
+                {
+                    "name": "internal_docs",
+                    "title": "Internal Docs",
+                    "entries": [
+                        {
+                            "data": "some title and link",
+                            "createdBy": "somebody",
+                            "created": "date",
+                            "updated": "date"
+                        }
+                        ]
+                }]
+        },
+        {
+            "name": "journeys",
+            "title": "JOURNEYS",
+            "topics": [{
+                "name": "tips",
+                "title": "Tips",
+                "entries": [
+                    {
+                        "data": "Set up and practice with a First Flight app",
+                        "createdBy": "somebody",
+                        "created": "date",
+                        "updated": "date"
+                    }
+                    ]
+                },
+                {
+                    "name": "internal_docs",
+                    "title": "Internal Docs",
+                    "entries": [
+                        {
+                            "data": "some title and link",
+                            "createdBy": "somebody",
+                            "created": "date",
+                            "updated": "date"
+                        }
+                        ]
+                }]
+        },
+        {
+            "name": "push",
+            "title": "PUSH NOTIFICATIONS",
+            "topics": [{
+                "name": "tips",
+                "title": "Tips",
+                "entries": [
+                    {
+                        "data": "Set up and practice with a First Flight app",
+                        "createdBy": "somebody",
+                        "created": "date",
+                        "updated": "date"
+                    }
+                    ]
+                },
+                {
+                    "name": "internal_docs",
+                    "title": "Internal Docs",
+                    "entries": [
+                        {
+                            "data": "some title and link",
+                            "createdBy": "somebody",
+                            "created": "date",
+                            "updated": "date"
+                        }
+                        ]
+                }]
+        },
+        {
+            "name": "journeys",
+            "title": "JOURNEYS",
+            "topics": [{
+                "name": "tips",
+                "title": "Tips",
+                "entries": [
+                    {
+                        "data": "Set up and practice with a First Flight app",
+                        "createdBy": "somebody",
+                        "created": "date",
+                        "updated": "date"
+                    }
+                    ]
+                },
+                {
+                    "name": "internal_docs",
+                    "title": "Internal Docs",
+                    "entries": [
+                        {
+                            "data": "some title and link",
+                            "createdBy": "somebody",
+                            "created": "date",
+                            "updated": "date"
+                        }
+                        ]
+                }]
+        }
+]
+}
