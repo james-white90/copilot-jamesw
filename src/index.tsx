@@ -17,6 +17,7 @@ root.render(
         <Route path='/' element={<App />}>
           <Route index element={<Home />} />
           <Route path=":category" element={<Category />} />
+          
         </Route>
       </Routes>
     </BrowserRouter>

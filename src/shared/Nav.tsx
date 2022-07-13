@@ -3,12 +3,14 @@
 import React from 'react';
 import logo from '../logo.svg';
 import './Nav.css'
+import { NavLink } from 'react-router-dom'
 
 const Nav: React.FC = () => {
     return (
+
         <div className='Nav'>
-            <img src={logo} alt='logo' />
-            <p> I am the nav bar</p>
+            <NavLink to="Home"> <img src={logo} alt='logo' /> </NavLink>
+            <h1> Airship Study Tool </h1>
         </div>
     )
 }
