@@ -4,12 +4,13 @@ import React from 'react';
 import logo from '../logo.svg';
 import './Nav.css'
 import { NavLink } from 'react-router-dom'
+import airship_logo from '../img/AIRSHIP_Stacked.jpg'
 
 const Nav: React.FC = () => {
     return (
 
         <div className='Nav'>
-            <NavLink to="Home"> <img src={logo} alt='logo' /> </NavLink>
+            <NavLink to="Home"> <img src={airship_logo} alt='airship_logo' /> </NavLink>
             <h1> Airship Study Tool </h1>
         </div>
     )

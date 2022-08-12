@@ -2,37 +2,37 @@ import { MenuItem } from '../shared/SideMenu'
 
 export const homeItems: MenuItem[] = [
     {
-        link: "link",
+        link: "journey",
         title: "Journey"
     },
     {
-        link: "link",
+        link: "iaa",
         title: "IAA"
     },
     {
-        link: "link",
+        link: "message_center",
         title: "Message Center"
     },
     {
-        link: "link",
+        link: "push_notifications",
         title: "Push Notifications"
     }
 ]
 export const categoryItems: MenuItem[] = [
     {
-        link: "link",
-        title: "journey"
+        link: "common_mistakes",
+        title: "Common Mistakes"
     },
     {
-        link: "link",
-        title: "iaa"
+        link: "tips",
+        title: "Tips"
     },
     {
-        link: "link",
-        title: "message center"
+        link: "internal_docs",
+        title: "Internal Docs"
     },
     {
-        link: "link",
-        title: "push notifications"
+        link: "external_docs",
+        title: "External Docs"
     }
 ]

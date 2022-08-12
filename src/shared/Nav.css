@@ -1,12 +1,14 @@
 .Nav{
     display: flex;
-    flex-direction: row;
     
 }
-img{
+.Nav img{
+    padding-left: 5em;
+    padding-right: 2em;
+    padding-top: 1em;
     height: 3em;
-    width: 3em;
+    width: 4em;
 }
-img:hover{
-    transform: scale(1.5);
+.Nav img:hover{
+    transform: scale(1.1);
 }
