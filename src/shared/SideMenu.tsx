@@ -1,7 +1,7 @@
 import React from 'react'
 import '../shared/SideMenu.css'
 import { NavLink } from 'react-router-dom'
-import airship_image from '../img/Airship-Decktop-Background.jpg'
+
 //handle styling for me and take some menu props
 //go over each item in the menu and then that list will be clickable using your nav link
 //go over topic to be displayed in your topic component
@@ -30,9 +30,7 @@ const SideMenu: React.FC<Props> = ({ menuItems }) => {
                     })}
                 </ul>
             </div>
-            <div className='side_right'>
-            <img src={airship_image} alt="airship_image"/>
-            </div>
+           
         </div>
     )
 }

@@ -6,7 +6,13 @@
 }
 .side_left{
     padding: 10px;
+    display: flex;
+    flex-direction: column;
     
+}
+
+.side_left ul{
+    padding: 0;
 }
 
 .side_left li {
@@ -26,9 +32,7 @@
     color: white;
 }
 
-.side_right img{
-    width: 50vw;
-}
+
 @media screen (min-width: 420px) {
     /* show only menu and not home component(command /) */
 }
