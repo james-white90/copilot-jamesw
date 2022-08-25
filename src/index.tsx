@@ -5,7 +5,7 @@ import App from './App';
 import reportWebVitals from './reportWebVitals';
 import { BrowserRouter, Route, Routes } from 'react-router-dom';
 import Home from './screens/Home';
-import Category from './screens/Category';
+import Category from './screens/CategoryDisplay';
 import Topic from './screens/Topic';
 
 const root = ReactDOM.createRoot(

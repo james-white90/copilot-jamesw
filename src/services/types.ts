@@ -4,11 +4,13 @@ export type StudyData = {
 
 export type Category = {
     name: string,
+    title: string,
     topics: Topic[]
 }
 
 type Topic = {
     name: string,
+    title: string,
     entries: Entry[]
 }
 
